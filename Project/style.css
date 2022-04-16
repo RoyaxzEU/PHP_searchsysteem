@@ -1,0 +1,24 @@
+
+
+/*table styling*/
+th, td {
+	border: 1px solid black;
+	padding: 8px;
+}
+
+thead th {
+  width: 25%;
+}
+tr:nth-child(even) {
+    background-color: #D6EEEE;
+  }
+
+/*Content class(Body) center*/
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+
+  h1 {
+    color: green;
+  }
